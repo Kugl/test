@@ -1,1 +1,3 @@
 Eine git Datei mit der Konfiguration wird angelegt
+
+Es ist eine Zwischenschicht, die eine trennung von Arbeitsbereich und Datei speichert. So können Commits imemr alle relevanten dateien enthalten = weniger Aufwand
