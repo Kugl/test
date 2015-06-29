@@ -1,0 +1,11 @@
+Automatisierte Softeware hilft beim Vergleich von Code.
+
+Direktes darstellen ist toll.
+
+Having old versions around can help to troubleshoot faster
+
+manual commits provide a level of control which automated systems lack
+
+Some applications like android do need a huge number of files so changes might be lost if only 
+
+Other system leike google docs have a different focus and are likewise used differently

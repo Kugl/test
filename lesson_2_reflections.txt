@@ -1,0 +1,1 @@
+Eine git Datei mit der Konfiguration wird angelegt
